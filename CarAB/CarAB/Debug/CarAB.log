@@ -1,0 +1,4 @@
+﻿  CarAB.cpp
+C:\Users\Mohammad Korbay\source\repos\CarAB\CarAB\CarAB.cpp(124,12): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Mohammad Korbay\source\repos\CarAB\CarAB\CarAB.cpp(146,7): warning C4101: 'year': unreferenced local variable
+  CarAB.vcxproj -> C:\Users\Mohammad Korbay\source\repos\CarAB\Debug\CarAB.exe
